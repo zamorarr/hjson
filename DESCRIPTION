@@ -1,0 +1,18 @@
+Package: hjson
+Title: R Interface to HJson-cpp
+Version: 0.0.0.9000
+Authors@R: 
+    person("Robert", "Zamora", , "zamora.rr@gmail.com", role = c("aut", "cre"))
+Description: Provides function to read HJson files into R lists.
+License: MIT + file LICENSE
+Imports: 
+    jsonlite,
+    Rcpp
+Suggests: 
+    testthat (>= 3.0.0)
+LinkingTo: 
+    Rcpp
+Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
