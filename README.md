@@ -1,6 +1,7 @@
 # hjson
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/zamorarr/hjson/workflows/R-CMD-check/badge.svg)](https://github.com/zamorarr/hjson/actions)
 <!-- badges: end -->
 
 hjson provides an R interaface to the [hjson-cpp](https://github.com/hjson/hjson-cpp) library.
